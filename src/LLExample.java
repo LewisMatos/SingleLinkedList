@@ -17,7 +17,6 @@ public class LLExample {
 	list1.insert(c);
 	list1.insert(d);
 	list1.insert(e);
-
 	list1.printList(dummy); //Print the list dummy node is the head
 
 
