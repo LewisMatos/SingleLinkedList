@@ -97,6 +97,7 @@ public class LinkedList {
 			// System.out.println("x is " + x);
 			return true;
 		}
+		
 		Node tNode = head;
 		while (tNode.getNext() != null) {
 			if (tNode.getNext().getData() == x) {
